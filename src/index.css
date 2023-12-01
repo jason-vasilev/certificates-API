@@ -1,0 +1,22 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --grey: #f7f7f7;
+  --grey-10: #5e5e5e;
+  --white: #fff;
+  --small-device: 480px;
+
+  background-color: var(--grey);
+}
+
+h1,
+h2 {
+  text-align: center;
+}
